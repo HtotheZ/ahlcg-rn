@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "babel-eslint": "^10.0.1",
-    "expo": "^31.0.2",
+    "expo": "^46.0.14",
     "native-base": "^2.10.0",
     "prop-types": "^15.6.2",
     "react": "16.5.0",
